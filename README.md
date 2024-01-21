@@ -1,1 +1,1 @@
-# React-Native_MSRM
+# Проект для мастер-класса по React Native
